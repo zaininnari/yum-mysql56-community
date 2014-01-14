@@ -35,7 +35,10 @@ edit `node.json`
         },
         "server": {
             "packages": ["mysql-community-server"]
-        }
+        },
+        "server_root_password": "iloverandompasswordsbutthiswilldo",
+        "server_repl_password": "iloverandompasswordsbutthiswilldo",
+        "server_debian_password": "iloverandompasswordsbutthiswilldo"
     }
 }
 ```
